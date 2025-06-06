@@ -2,8 +2,6 @@
 
 Welcome to **Real-Time Chess**, a modern multiplayer chess game built with **JavaScript**, **Socket.IO**, and **chess.js**. Play classic chess in your browser against another player with real-time moves and clean visuals.
 
-![Chess Banner](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Chess_klt45.svg/800px-Chess_klt45.svg.png)
-
 ---
 
 ## 🌐 Live Multiplayer
