@@ -31,5 +31,6 @@ Welcome to **Real-Time Chess**, a modern multiplayer chess game built with **Jav
 ---
 
 ## 🚀 Getting Started
-
+node app.js 
+PORT : 3000
 
